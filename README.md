@@ -45,7 +45,9 @@ title('Upsampled Signal by a factor of L');
 
 ## OUTPUT: 
 
-<img width="1756" height="863" alt="Screenshot 2025-11-10 154806" src="https://github.com/user-attachments/assets/ead85bcd-f368-44cb-b361-18cdfd5e8af9" />
+<img width="1584" height="865" alt="image" src="https://github.com/user-attachments/assets/d81ce77f-8e40-44a8-a3db-b81c0afc50b7" />
+
+<img width="1591" height="867" alt="image" src="https://github.com/user-attachments/assets/43afda5d-cbfd-4483-ac1c-ec872389ec5f" />
 
 ## RESULT: 
 Thus the decimation process by a factor M and interpolation process by a factor L using 
